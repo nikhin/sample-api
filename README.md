@@ -3,13 +3,11 @@
 
 This is to Create Sample API server 
 
+```
+> git clone https://github.com/nikhin/sample-api.git
+> cd sample-api
+> npm i
+> npm start
+```
+listens port 3001
 
-1) Clone the project
-2) install node modules 
-   npm i
-   
-3) Start the server 
- 
-     npm start
-     
- 4) open localhost:http://localhost:3001/interest
